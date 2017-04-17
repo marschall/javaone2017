@@ -8,13 +8,13 @@
   <packaging>jar</packaging>
   <name>JavaOne 2017</name>
   <description>Supplementary code for JavaOne 2017</description>
-  <inceptionYear>2016</inceptionYear>
+  <inceptionYear>2017</inceptionYear>
 
   <prerequisites>
     <maven>3.0.5</maven>
   </prerequisites>
 
-  <url>https://github.com/marschall/pgday2016</url>
+  <url>https://github.com/marschall/javaone2017</url>
 
   <scm>
     <connection>scm:git:https://github.com/marschall/javaone2017.git</connection>
